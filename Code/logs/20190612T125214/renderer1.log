@@ -1,0 +1,385 @@
+[2019-06-12 12:55:36.521] [renderer1] [error] No workspace found
+[2019-06-12 12:55:37.858] [renderer1] [error] No workspace found
+[2019-06-12 12:55:38.879] [renderer1] [error] No workspace found
+[2019-06-12 12:55:39.934] [renderer1] [error] No workspace found
+[2019-06-12 12:55:41.010] [renderer1] [error] No workspace found
+[2019-06-12 13:05:26.960] [renderer1] [error] No workspace found
+[2019-06-12 13:05:28.104] [renderer1] [error] No workspace found
+[2019-06-12 13:05:28.589] [renderer1] [warning] {}
+[2019-06-12 13:05:31.323] [renderer1] [error] No workspace found
+[2019-06-12 13:05:32.937] [renderer1] [error] No workspace found
+[2019-06-12 13:05:34.050] [renderer1] [error] No workspace found
+[2019-06-12 13:05:36.130] [renderer1] [error] No workspace found
+[2019-06-12 13:07:00.461] [renderer1] [error] No workspace found
+[2019-06-12 13:07:05.722] [renderer1] [error] No workspace found
+[2019-06-12 13:07:10.100] [renderer1] [error] No workspace found
+[2019-06-12 13:07:19.914] [renderer1] [error] No workspace found
+[2019-06-12 13:07:21.884] [renderer1] [error] No workspace found
+[2019-06-12 13:07:56.255] [renderer1] [error] No workspace found
+[2019-06-12 13:08:01.626] [renderer1] [error] No workspace found
+[2019-06-12 13:08:23.673] [renderer1] [error] No workspace found
+[2019-06-12 13:09:08.828] [renderer1] [error] No workspace found
+[2019-06-12 13:09:14.217] [renderer1] [error] No workspace found
+[2019-06-12 13:09:17.181] [renderer1] [error] No workspace found
+[2019-06-12 13:09:18.937] [renderer1] [error] No workspace found
+[2019-06-12 13:09:26.529] [renderer1] [error] No workspace found
+[2019-06-12 13:09:27.553] [renderer1] [error] No workspace found
+[2019-06-12 13:09:28.802] [renderer1] [error] No workspace found
+[2019-06-12 13:09:46.590] [renderer1] [error] No workspace found
+[2019-06-12 13:09:48.301] [renderer1] [error] No workspace found
+[2019-06-12 13:09:49.825] [renderer1] [error] No workspace found
+[2019-06-12 13:09:53.552] [renderer1] [error] No workspace found
+[2019-06-12 13:09:55.282] [renderer1] [error] No workspace found
+[2019-06-12 13:09:56.505] [renderer1] [error] No workspace found
+[2019-06-12 13:09:58.292] [renderer1] [error] No workspace found
+[2019-06-12 13:09:59.404] [renderer1] [error] No workspace found
+[2019-06-12 13:10:01.287] [renderer1] [error] No workspace found
+[2019-06-12 13:10:02.579] [renderer1] [error] No workspace found
+[2019-06-12 13:10:03.856] [renderer1] [error] No workspace found
+[2019-06-12 13:10:07.691] [renderer1] [error] No workspace found
+[2019-06-12 13:10:08.793] [renderer1] [error] No workspace found
+[2019-06-12 13:10:13.912] [renderer1] [error] No workspace found
+[2019-06-12 13:10:14.956] [renderer1] [error] No workspace found
+[2019-06-12 13:10:16.116] [renderer1] [error] No workspace found
+[2019-06-12 13:10:44.159] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6647.652ms, saved PROFILE here: '/tmp/exthost-344e77.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6634962,"percentage":100}]
+[2019-06-12 13:10:44.709] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:10:55.839] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7136.321ms, saved PROFILE here: '/tmp/exthost-c5a149.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7126700,"percentage":100}]
+[2019-06-12 13:10:58.458] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:11:11.187] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 8252.545ms, saved PROFILE here: '/tmp/exthost-51250f.cpuprofile' [{"id":"vscjava.vscode-java-test","total":8240410,"percentage":100}]
+[2019-06-12 13:11:13.629] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:11:25.133] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7890.507ms, saved PROFILE here: '/tmp/exthost-a042a9.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7881663,"percentage":100}]
+[2019-06-12 13:11:28.089] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:11:41.659] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9153.027ms, saved PROFILE here: '/tmp/exthost-6908da.cpuprofile' [{"id":"program","total":153,"percentage":0},{"id":"vscjava.vscode-java-test","total":9144226,"percentage":100}]
+[2019-06-12 13:11:44.827] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:11:55.061] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6192.099ms, saved PROFILE here: '/tmp/exthost-56e5ad.cpuprofile' [{"id":"program","total":101,"percentage":0},{"id":"vscjava.vscode-java-test","total":6179939,"percentage":100}]
+[2019-06-12 13:11:58.386] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:12:09.734] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6864.975ms, saved PROFILE here: '/tmp/exthost-500e80.cpuprofile' [{"id":"program","total":251,"percentage":0},{"id":"vscjava.vscode-java-test","total":6855084,"percentage":100}]
+[2019-06-12 13:12:24.626] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7546.403ms, saved PROFILE here: '/tmp/exthost-7c5844.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7534118,"percentage":100}]
+[2019-06-12 13:12:27.658] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:12:28.780] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:12:38.341] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 5966.453ms, saved PROFILE here: '/tmp/exthost-770149.cpuprofile' [{"id":"vscjava.vscode-java-test","total":5953787,"percentage":100}]
+[2019-06-12 13:12:52.770] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7210.105ms, saved PROFILE here: '/tmp/exthost-aef6a8.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7197703,"percentage":100}]
+[2019-06-12 13:12:55.918] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:13:06.553] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6720.651ms, saved PROFILE here: '/tmp/exthost-661d73.cpuprofile' [{"id":"gc","total":225,"percentage":0},{"id":"vscjava.vscode-java-test","total":6710787,"percentage":100}]
+[2019-06-12 13:13:09.207] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:13:24.292] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 11283.017ms, saved PROFILE here: '/tmp/exthost-808888.cpuprofile' [{"id":"program","total":162,"percentage":0},{"id":"vscjava.vscode-java-test","total":11272930,"percentage":100}]
+[2019-06-12 13:13:28.645] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:13:38.344] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 5877.61ms, saved PROFILE here: '/tmp/exthost-e88a0c.cpuprofile' [{"id":"vscjava.vscode-java-test","total":5868880,"percentage":100}]
+[2019-06-12 13:13:41.381] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:13:53.385] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7699.094ms, saved PROFILE here: '/tmp/exthost-7e7d71.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7686338,"percentage":100}]
+[2019-06-12 13:13:53.852] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:14:06.160] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 8223.16ms, saved PROFILE here: '/tmp/exthost-988d32.cpuprofile' [{"id":"vscjava.vscode-java-test","total":8209151,"percentage":100}]
+[2019-06-12 13:14:19.680] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6486.607ms, saved PROFILE here: '/tmp/exthost-1d20f8.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6477507,"percentage":100}]
+[2019-06-12 13:14:22.328] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:14:35.578] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9143.736ms, saved PROFILE here: '/tmp/exthost-cb6081.cpuprofile' [{"id":"vscjava.vscode-java-test","total":9131364,"percentage":100}]
+[2019-06-12 13:14:38.080] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:14:50.320] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7500.691ms, saved PROFILE here: '/tmp/exthost-950391.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7491526,"percentage":100}]
+[2019-06-12 13:14:52.895] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:15:06.886] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9836.875ms, saved PROFILE here: '/tmp/exthost-4e8135.cpuprofile' [{"id":"vscjava.vscode-java-test","total":9825077,"percentage":100}]
+[2019-06-12 13:15:09.635] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:15:10.721] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:15:21.486] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6988.667ms, saved PROFILE here: '/tmp/exthost-919489.cpuprofile' [{"id":"gc","total":99,"percentage":0},{"id":"vscjava.vscode-java-test","total":6979313,"percentage":100}]
+[2019-06-12 13:15:36.340] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6524.541ms, saved PROFILE here: '/tmp/exthost-e522ab.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6512460,"percentage":100}]
+[2019-06-12 13:15:39.030] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:15:49.263] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6059.697ms, saved PROFILE here: '/tmp/exthost-18afc6.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6050452,"percentage":100}]
+[2019-06-12 13:15:52.465] [renderer1] [error] No workspace found
+[2019-06-12 13:15:53.403] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:28:17.633] [renderer1] [error] No workspace found
+[2019-06-12 13:28:19.203] [renderer1] [error] No workspace found
+[2019-06-12 13:44:02.350] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 5787.3ms, saved PROFILE here: '/tmp/exthost-de07d0.cpuprofile' [{"id":"vscjava.vscode-java-test","total":5775704,"percentage":100}]
+[2019-06-12 13:44:13.594] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6859.372ms, saved PROFILE here: '/tmp/exthost-d360b6.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6850449,"percentage":100}]
+[2019-06-12 13:44:26.059] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 5788.007ms, saved PROFILE here: '/tmp/exthost-4fc093.cpuprofile' [{"id":"vscjava.vscode-java-test","total":5779082,"percentage":100}]
+[2019-06-12 13:44:27.153] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:44:55.957] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 14241.426ms, saved PROFILE here: '/tmp/exthost-81c739.cpuprofile' [{"id":"vscjava.vscode-java-test","total":14229575,"percentage":100}]
+[2019-06-12 13:45:09.062] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6600.931ms, saved PROFILE here: '/tmp/exthost-81bae9.cpuprofile' [{"id":"gc","total":99,"percentage":0},{"id":"vscjava.vscode-java-test","total":6589952,"percentage":100}]
+[2019-06-12 13:45:11.535] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:45:23.811] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7900.689ms, saved PROFILE here: '/tmp/exthost-82cba2.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7891529,"percentage":100}]
+[2019-06-12 13:45:26.020] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:45:36.577] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6072.062ms, saved PROFILE here: '/tmp/exthost-300d9f.cpuprofile' [{"id":"gc","total":97,"percentage":0},{"id":"self","total":103,"percentage":0},{"id":"vscjava.vscode-java-test","total":6059834,"percentage":100}]
+[2019-06-12 13:45:38.448] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:45:48.821] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6003.667ms, saved PROFILE here: '/tmp/exthost-086394.cpuprofile' [{"id":"vscjava.vscode-java-test","total":5991675,"percentage":100}]
+[2019-06-12 13:45:50.670] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:45:51.670] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:46:41.562] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6045.706ms, saved PROFILE here: '/tmp/exthost-87daad.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6032556,"percentage":100}]
+[2019-06-12 13:46:56.395] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 8989.359ms, saved PROFILE here: '/tmp/exthost-0a5fac.cpuprofile' [{"id":"program","total":154,"percentage":0},{"id":"vscjava.vscode-java-test","total":8977157,"percentage":100}]
+[2019-06-12 13:46:58.927] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:47:04.069] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:48:05.816] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6821.292ms, saved PROFILE here: '/tmp/exthost-72e8c4.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6809725,"percentage":100}]
+[2019-06-12 13:48:17.494] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7309.694ms, saved PROFILE here: '/tmp/exthost-d15613.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7297883,"percentage":100}]
+[2019-06-12 13:48:31.861] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7599.142ms, saved PROFILE here: '/tmp/exthost-43fbff.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7587432,"percentage":100}]
+[2019-06-12 13:48:34.132] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:48:47.739] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9076.196ms, saved PROFILE here: '/tmp/exthost-cb6b3c.cpuprofile' [{"id":"vscjava.vscode-java-test","total":9066838,"percentage":100}]
+[2019-06-12 13:48:49.994] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:49:08.327] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 14236.073ms, saved PROFILE here: '/tmp/exthost-7dfc96.cpuprofile' [{"id":"vscjava.vscode-java-test","total":14225800,"percentage":100}]
+[2019-06-12 13:49:11.243] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:49:12.553] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:49:22.816] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 5814.344ms, saved PROFILE here: '/tmp/exthost-6a99e2.cpuprofile' [{"id":"self","total":151,"percentage":0},{"id":"vscjava.vscode-java-test","total":5802708,"percentage":100}]
+[2019-06-12 13:49:25.061] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:49:38.238] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9303.282ms, saved PROFILE here: '/tmp/exthost-e6d698.cpuprofile' [{"id":"vscjava.vscode-java-test","total":9293072,"percentage":100}]
+[2019-06-12 13:49:41.238] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:49:51.894] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6366.262ms, saved PROFILE here: '/tmp/exthost-bcedc6.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6353671,"percentage":100}]
+[2019-06-12 13:49:54.024] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:50:05.417] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6660.956ms, saved PROFILE here: '/tmp/exthost-03dcff.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6648879,"percentage":100}]
+[2019-06-12 13:50:08.755] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:50:20.094] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7029.623ms, saved PROFILE here: '/tmp/exthost-edd640.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7020791,"percentage":100}]
+[2019-06-12 13:50:22.267] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:50:32.728] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6667.311ms, saved PROFILE here: '/tmp/exthost-af666d.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6658198,"percentage":100}]
+[2019-06-12 13:50:35.696] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:50:50.395] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 10877.915ms, saved PROFILE here: '/tmp/exthost-3cf671.cpuprofile' [{"id":"vscjava.vscode-java-test","total":10865121,"percentage":100}]
+[2019-06-12 13:50:53.576] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:51:07.973] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 10373.324ms, saved PROFILE here: '/tmp/exthost-ebd6bd.cpuprofile' [{"id":"vscjava.vscode-java-test","total":10360509,"percentage":100}]
+[2019-06-12 13:51:11.345] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:51:22.775] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7456.928ms, saved PROFILE here: '/tmp/exthost-ef0925.cpuprofile' [{"id":"program","total":104,"percentage":0},{"id":"vscjava.vscode-java-test","total":7446650,"percentage":100}]
+[2019-06-12 13:51:25.746] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:51:39.484] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9137.805ms, saved PROFILE here: '/tmp/exthost-e9c4d6.cpuprofile' [{"id":"vscjava.vscode-java-test","total":9128678,"percentage":100}]
+[2019-06-12 13:51:42.065] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:51:54.307] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 8674.282ms, saved PROFILE here: '/tmp/exthost-814c29.cpuprofile' [{"id":"vscjava.vscode-java-test","total":8661555,"percentage":100}]
+[2019-06-12 13:51:57.765] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:52:11.096] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 8915.125ms, saved PROFILE here: '/tmp/exthost-ae768d.cpuprofile' [{"id":"vscjava.vscode-java-test","total":8906321,"percentage":100}]
+[2019-06-12 13:52:14.527] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:52:29.796] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9523.618ms, saved PROFILE here: '/tmp/exthost-da5912.cpuprofile' [{"id":"gc","total":96,"percentage":0},{"id":"vscjava.vscode-java-test","total":9510909,"percentage":100}]
+[2019-06-12 13:52:30.494] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:52:32.538] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:52:58.841] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 5910.851ms, saved PROFILE here: '/tmp/exthost-0b85b4.cpuprofile' [{"id":"vscjava.vscode-java-test","total":5885728,"percentage":100}]
+[2019-06-12 13:53:12.942] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7839.14ms, saved PROFILE here: '/tmp/exthost-c1440c.cpuprofile' [{"id":"self","total":100,"percentage":0},{"id":"vscjava.vscode-java-test","total":7829876,"percentage":100}]
+[2019-06-12 13:53:26.744] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7583.209ms, saved PROFILE here: '/tmp/exthost-c65b9f.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7570519,"percentage":100}]
+[2019-06-12 13:53:29.775] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:53:39.987] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6304.797ms, saved PROFILE here: '/tmp/exthost-48495f.cpuprofile' [{"id":"gc","total":98,"percentage":0},{"id":"vscjava.vscode-java-test","total":6295934,"percentage":100}]
+[2019-06-12 13:53:43.752] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:54:00.578] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 12682.029ms, saved PROFILE here: '/tmp/exthost-bd8504.cpuprofile' [{"id":"vscjava.vscode-java-test","total":12673160,"percentage":100}]
+[2019-06-12 13:54:03.384] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:54:21.489] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 13442.218ms, saved PROFILE here: '/tmp/exthost-a68e9b.cpuprofile' [{"id":"vscjava.vscode-java-test","total":13433163,"percentage":100}]
+[2019-06-12 13:54:24.056] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:54:34.701] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6215.941ms, saved PROFILE here: '/tmp/exthost-94ae6a.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6202766,"percentage":100}]
+[2019-06-12 13:54:38.893] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:54:51.490] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 8479.193ms, saved PROFILE here: '/tmp/exthost-4a7d63.cpuprofile' [{"id":"vscjava.vscode-java-test","total":8470160,"percentage":100}]
+[2019-06-12 13:54:54.621] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:55:08.668] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 8278.54ms, saved PROFILE here: '/tmp/exthost-467dec.cpuprofile' [{"id":"vscjava.vscode-java-test","total":8252802,"percentage":100}]
+[2019-06-12 13:55:10.742] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:55:21.716] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7270.452ms, saved PROFILE here: '/tmp/exthost-bf3493.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7260780,"percentage":100}]
+[2019-06-12 13:55:33.221] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6401.743ms, saved PROFILE here: '/tmp/exthost-272235.cpuprofile' [{"id":"program","total":161,"percentage":0},{"id":"vscjava.vscode-java-test","total":6392583,"percentage":100}]
+[2019-06-12 13:55:33.263] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:55:44.459] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6756.348ms, saved PROFILE here: '/tmp/exthost-6e49d5.cpuprofile' [{"id":"vscjava.vscode-java-test","total":6744130,"percentage":100}]
+[2019-06-12 13:55:44.675] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:55:47.695] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:56:00.499] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9164.644ms, saved PROFILE here: '/tmp/exthost-f82753.cpuprofile' [{"id":"vscjava.vscode-java-test","total":9153989,"percentage":100}]
+[2019-06-12 13:56:03.457] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:56:05.562] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:56:17.560] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 7993.144ms, saved PROFILE here: '/tmp/exthost-771e61.cpuprofile' [{"id":"vscjava.vscode-java-test","total":7983593,"percentage":100}]
+[2019-06-12 13:56:22.014] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:56:23.757] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:56:37.189] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 9686.995ms, saved PROFILE here: '/tmp/exthost-9022b9.cpuprofile' [{"id":"vscjava.vscode-java-test","total":9677249,"percentage":100}]
+[2019-06-12 13:56:45.513] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:57:00.684] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 10810.117ms, saved PROFILE here: '/tmp/exthost-fa759b.cpuprofile' [{"id":"vscjava.vscode-java-test","total":10799203,"percentage":100}]
+[2019-06-12 13:57:10.753] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:57:24.758] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 10212.301ms, saved PROFILE here: '/tmp/exthost-6ac56e.cpuprofile' [{"id":"vscjava.vscode-java-test","total":10202536,"percentage":100}]
+[2019-06-12 13:57:25.612] [renderer1] [warning] 在 1750ms 后终止了 onWillSaveTextDocument 事件
+[2019-06-12 13:57:32.269] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:57:33.321] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 13:57:37.598] [renderer1] [warning] 在 1750ms 后终止了 onWillSaveTextDocument 事件
+[2019-06-12 13:57:44.387] [renderer1] [warning] UNRESPONSIVE extension host, 'vscjava.vscode-java-test' took 100% of 6875.287ms, saved PROFILE here: '/tmp/exthost-ec4c19.cpuprofile' [{"id":"gc","total":99,"percentage":0},{"id":"vscjava.vscode-java-test","total":6864782,"percentage":100}]
+[2019-06-12 13:57:50.385] [renderer1] [error] No workspace found
+[2019-06-12 13:57:51.205] [renderer1] [error] spawn ps EMFILE: Error: spawn ps EMFILE
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-12 14:13:13.707] [renderer1] [error] No workspace found
+[2019-06-12 14:13:15.326] [renderer1] [error] No workspace found
+[2019-06-12 14:13:16.472] [renderer1] [error] No workspace found
+[2019-06-12 14:13:18.306] [renderer1] [error] No workspace found
+[2019-06-12 14:13:19.595] [renderer1] [error] No workspace found
+[2019-06-12 14:16:10.797] [renderer1] [error] No workspace found
+[2019-06-12 14:16:12.347] [renderer1] [error] No workspace found
+[2019-06-12 14:16:13.599] [renderer1] [error] No workspace found

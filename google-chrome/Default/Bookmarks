@@ -1,0 +1,75 @@
+{
+   "checksum": "b964e167ed2a90feecddd86b03e0bb79",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13176204824221420",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13176204905271519"
+            },
+            "name": "C++命名空间 namespace的作用和使用解析 - 莫水千流 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/zhoug2020/p/5972439.html"
+         }, {
+            "date_added": "13181736066162589",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13183059456160452"
+            },
+            "name": "爱情公寓2 第16集",
+            "type": "url",
+            "url": "https://www.iqiyi.com/v_19rrjc81v0.html?vfm=2008_aldbd#curid=96896000_ac8e150be60a4b9ebec58c110294d09e"
+         }, {
+            "date_added": "13183058778762726",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13183058778763945"
+            },
+            "name": "Linux系统挂载存储只读改成读写 - Captain--Jack - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/u010977122/article/details/53316671?utm_source=itdadao&utm_medium=referral"
+         }, {
+            "date_added": "13189947582876287",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13189948142404448"
+            },
+            "name": "概述 - beego: 简约 & 强大并存的 Go 应用框架",
+            "type": "url",
+            "url": "https://beego.me/docs/mvc/model/overview.md"
+         }, {
+            "date_added": "13196443091717979",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13204463356075017"
+            },
+            "name": "localhost:8080",
+            "type": "url",
+            "url": "http://localhost:8080/"
+         } ],
+         "date_added": "13176204822375761",
+         "date_modified": "13196443091717979",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13176204822375768",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13176204822375769",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

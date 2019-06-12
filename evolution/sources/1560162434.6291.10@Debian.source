@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=liberalzhou@163.com
+Enabled=true
+Parent=1560162434.6291.2@Debian
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=liberalhou@163.com
+Method=none
+Port=25
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+
+[Security]
+Method=none

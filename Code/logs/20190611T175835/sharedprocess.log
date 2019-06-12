@@ -1,0 +1,236 @@
+[2019-06-11 17:58:41.638] [sharedprocess] [info] main {"machineId":"d89494a614c74e15b7970e35dd1a7449f26eeb490da8a31d1299fa52a9fd8c60"}
+[2019-06-11 17:58:46.790] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 17:58:47.108] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 17:58:47.212] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:47.220] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:47.275] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:47.400] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 17:58:47.409] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:51.362] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-06-11 17:58:51.362] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2019-06-11 17:58:51.363] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2019-06-11 17:58:51.363] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2019-06-11 17:58:51.540] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:51.544] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:51.545] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:51.547] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:53.831] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /tmp/5e3eeeb7-b74f-4dbe-bf9b-9fa350158619
+[2019-06-11 17:58:53.901] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.vscjava.vscode-maven-0.17.1: vscjava.vscode-maven
+[2019-06-11 17:58:53.902] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/vscjava.vscode-maven-0.17.1
+[2019-06-11 17:58:53.904] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2019-06-11 17:58:54.023] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /tmp/84982a50-b67a-41cf-8ef9-8f73b7e6d749
+[2019-06-11 17:58:54.084] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2019-06-11 17:58:54.171] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency /tmp/a1b3c874-d8f8-4be1-a5be-e82bf5f2fb8b
+[2019-06-11 17:58:54.231] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.vscjava.vscode-java-test-0.18.0: vscjava.vscode-java-test
+[2019-06-11 17:58:54.231] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/vscjava.vscode-java-test-0.18.0
+[2019-06-11 17:58:54.232] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2019-06-11 17:58:54.381] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 17:58:54.396] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:54.432] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2019-06-11 17:58:54.534] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.vscjava.vscode-java-dependency-0.5.0: vscjava.vscode-java-dependency
+[2019-06-11 17:58:54.535] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/vscjava.vscode-java-dependency-0.5.0
+[2019-06-11 17:58:54.536] [sharedprocess] [info] Installation completed. vscjava.vscode-java-dependency
+[2019-06-11 17:58:54.744] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 17:58:54.759] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 17:58:54.791] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2019-06-11 17:58:55.315] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/ea3ca11f-c963-4acd-91ec-36fd34f99826
+[2019-06-11 17:58:55.735] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.eamodio.gitlens-9.8.2: eamodio.gitlens
+[2019-06-11 17:58:55.736] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/eamodio.gitlens-9.8.2
+[2019-06-11 17:58:55.743] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-06-11 17:58:55.840] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-06-11 17:59:21.652] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-11 17:59:21.653] [sharedprocess] [info] Skipping directory 9be93140a707fd39d5a6177d688fd843.zh-cn. Language pack still in use.
+[2019-06-11 18:03:47.409] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:08:47.517] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:16.039] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:10:16.040] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:10:16.043] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:10:16.087] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:16.102] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:16.137] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:16.230] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:16.367] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:10:16.415] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:16.497] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:10:16.533] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:16.605] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:10:16.630] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:27.818] [sharedprocess] [info] Installing extension: blackmiaool.link-with-leetcode
+[2019-06-11 18:10:27.937] [sharedprocess] [info] Scanned user extensions: 86
+[2019-06-11 18:10:29.069] [sharedprocess] [info] Downloaded extension: blackmiaool.link-with-leetcode /tmp/3c3c1541-92af-49ac-957a-5d885c71d8bc
+[2019-06-11 18:10:29.363] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.blackmiaool.link-with-leetcode-0.7.1: blackmiaool.link-with-leetcode
+[2019-06-11 18:10:29.364] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/blackmiaool.link-with-leetcode-0.7.1
+[2019-06-11 18:10:29.365] [sharedprocess] [info] Installation completed. blackmiaool.link-with-leetcode
+[2019-06-11 18:10:29.450] [sharedprocess] [info] Extensions installed successfully: blackmiaool.link-with-leetcode
+[2019-06-11 18:13:00.966] [sharedprocess] [info] Installing extension: nodesource.vscode-for-node-js-development-pack
+[2019-06-11 18:13:01.268] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-11 18:13:02.531] [sharedprocess] [info] Downloaded extension: nodesource.vscode-for-node-js-development-pack /tmp/2bf5632c-720d-4d7b-a9de-3aae2aa007da
+[2019-06-11 18:13:02.613] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.nodesource.vscode-for-node-js-development-pack-2.0.1: nodesource.vscode-for-node-js-development-pack
+[2019-06-11 18:13:02.614] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/nodesource.vscode-for-node-js-development-pack-2.0.1
+[2019-06-11 18:13:02.615] [sharedprocess] [info] Installation completed. nodesource.vscode-for-node-js-development-pack
+[2019-06-11 18:13:02.724] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:13:02.740] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:03.644] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2019-06-11 18:13:03.645] [sharedprocess] [info] Installing extension: peterjausovec.vscode-docker
+[2019-06-11 18:13:03.645] [sharedprocess] [info] Installing extension: christian-kohler.npm-intellisense
+[2019-06-11 18:13:03.645] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2019-06-11 18:13:03.645] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2019-06-11 18:13:03.645] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-azurefunctions
+[2019-06-11 18:13:03.645] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare-audio
+[2019-06-11 18:13:03.646] [sharedprocess] [info] Installing extension: kisstkondoros.vscode-codemetrics
+[2019-06-11 18:13:04.118] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:04.122] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:04.125] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:04.129] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:04.172] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:04.207] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:04.251] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:04.296] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-11 18:13:06.231] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/b89ecec0-5edb-4fdf-83be-fd6c562e8ad9
+[2019-06-11 18:13:06.291] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.dbaeumer.vscode-eslint-1.9.0: dbaeumer.vscode-eslint
+[2019-06-11 18:13:06.291] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0
+[2019-06-11 18:13:06.292] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-06-11 18:13:06.343] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2019-06-11 18:13:06.549] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /tmp/c13c77c3-64c7-4012-b745-8da9070a1839
+[2019-06-11 18:13:06.607] [sharedprocess] [info] Downloaded extension: peterjausovec.vscode-docker /tmp/480dda7e-84b9-412d-b1bc-d973d03aa0ea
+[2019-06-11 18:13:06.730] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.shan.code-settings-sync-3.2.9: shan.code-settings-sync
+[2019-06-11 18:13:06.730] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/shan.code-settings-sync-3.2.9
+[2019-06-11 18:13:06.731] [sharedprocess] [info] Installation completed. shan.code-settings-sync
+[2019-06-11 18:13:06.801] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync
+[2019-06-11 18:13:07.006] [sharedprocess] [info] Downloaded extension: christian-kohler.npm-intellisense /tmp/edfad734-016a-40db-a1a2-60c86b8784d2
+[2019-06-11 18:13:07.192] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.christian-kohler.npm-intellisense-1.3.0: christian-kohler.npm-intellisense
+[2019-06-11 18:13:07.192] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0
+[2019-06-11 18:13:07.194] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense
+[2019-06-11 18:13:07.230] [sharedprocess] [info] Extensions installed successfully: christian-kohler.npm-intellisense
+[2019-06-11 18:13:07.587] [sharedprocess] [info] Installing extension: cc-arekzc.cc-nodejs
+[2019-06-11 18:13:07.704] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-11 18:13:07.847] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.peterjausovec.vscode-docker-0.6.2: peterjausovec.vscode-docker
+[2019-06-11 18:13:07.847] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/peterjausovec.vscode-docker-0.6.2
+[2019-06-11 18:13:07.849] [sharedprocess] [info] Installation completed. peterjausovec.vscode-docker
+[2019-06-11 18:13:08.009] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:13:08.037] [sharedprocess] [info] Scanned user extensions: 92
+[2019-06-11 18:13:08.037] [sharedprocess] [info] Extensions installed successfully: peterjausovec.vscode-docker
+[2019-06-11 18:13:08.069] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-azurefunctions /tmp/6ac3ff91-ad53-45d4-8d87-b173f849fe9c
+[2019-06-11 18:13:08.756] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.ms-azuretools.vscode-azurefunctions-0.17.1: ms-azuretools.vscode-azurefunctions
+[2019-06-11 18:13:08.757] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/ms-azuretools.vscode-azurefunctions-0.17.1
+[2019-06-11 18:13:08.764] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-azurefunctions
+[2019-06-11 18:13:08.937] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:13:08.967] [sharedprocess] [info] Scanned user extensions: 93
+[2019-06-11 18:13:09.165] [sharedprocess] [info] Downloaded extension: kisstkondoros.vscode-codemetrics /tmp/ccbe7d27-ab12-411f-99e2-6aec3d88f71a
+[2019-06-11 18:13:09.915] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.kisstkondoros.vscode-codemetrics-1.18.1: kisstkondoros.vscode-codemetrics
+[2019-06-11 18:13:09.916] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.18.1
+[2019-06-11 18:13:09.918] [sharedprocess] [info] Installation completed. kisstkondoros.vscode-codemetrics
+[2019-06-11 18:13:09.979] [sharedprocess] [info] Extensions installed successfully: kisstkondoros.vscode-codemetrics
+[2019-06-11 18:13:10.383] [sharedprocess] [info] Downloaded extension: cc-arekzc.cc-nodejs /tmp/e8278e2e-19b2-47c5-a8ec-3805a862e3d0
+[2019-06-11 18:13:10.450] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.cc-arekzc.cc-nodejs-0.0.3: cc-arekzc.cc-nodejs
+[2019-06-11 18:13:10.451] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/cc-arekzc.cc-nodejs-0.0.3
+[2019-06-11 18:13:10.451] [sharedprocess] [info] Installation completed. cc-arekzc.cc-nodejs
+[2019-06-11 18:13:10.582] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:13:10.606] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:10.835] [sharedprocess] [info] Installing extension: ms-vscode.azure-account
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: eg2.tslint
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: mrmlnc.vscode-scss
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: glen-84.sass-lint
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: chrmarti.regex
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: jakob101.relativepath
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: haaaad.ansible
+[2019-06-11 18:13:16.068] [sharedprocess] [info] Installing extension: mrmlnc.vscode-less
+[2019-06-11 18:13:16.069] [sharedprocess] [info] Installing extension: henriiik.docker-linter
+[2019-06-11 18:13:16.069] [sharedprocess] [info] Installing extension: timonwong.ansible-autocomplete
+[2019-06-11 18:13:16.069] [sharedprocess] [info] Installing extension: michelemelluso.gitignore
+[2019-06-11 18:13:16.737] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.740] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.742] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.778] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.809] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare-audio /tmp/f3bcc1c0-e793-42e5-be37-d336939e54c7
+[2019-06-11 18:13:16.816] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.850] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.870] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /tmp/259f0342-04cb-41cd-89f7-e57dcab46fee
+[2019-06-11 18:13:16.884] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.931] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:16.974] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:17.008] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:17.043] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:17.088] [sharedprocess] [info] Scanned user extensions: 95
+[2019-06-11 18:13:18.220] [sharedprocess] [info] Downloaded extension: mrmlnc.vscode-scss /tmp/135acf6d-068a-499a-9d56-3b775173f2a9
+[2019-06-11 18:13:18.666] [sharedprocess] [info] Downloaded extension: glen-84.sass-lint /tmp/33bde707-b89f-4525-9e8e-3c6a25609be2
+[2019-06-11 18:13:19.138] [sharedprocess] [info] Downloaded extension: eg2.tslint /tmp/c1750115-0920-478e-8228-59e268dbe5d0
+[2019-06-11 18:13:19.414] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /tmp/2ff7c1fa-b603-4584-a9f8-493c39a28f3d
+[2019-06-11 18:13:19.611] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.337: ms-vsliveshare.vsliveshare
+[2019-06-11 18:13:19.612] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.337
+[2019-06-11 18:13:19.620] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2019-06-11 18:13:19.632] [sharedprocess] [info] Downloaded extension: mrmlnc.vscode-less /tmp/ac0fa913-a4bd-48aa-a59d-d35a8b294cad
+[2019-06-11 18:13:19.681] [sharedprocess] [info] Downloaded extension: michelemelluso.gitignore /tmp/da0a5161-4017-4304-bafe-7e2ead40e4a9
+[2019-06-11 18:13:19.683] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2019-06-11 18:13:19.793] [sharedprocess] [info] Downloaded extension: jakob101.relativepath /tmp/50b1cb79-a576-4a60-8545-564f078a0ea2
+[2019-06-11 18:13:19.813] [sharedprocess] [info] Downloaded extension: ms-vscode.azure-account /tmp/9244f87b-2ef0-4834-a3f6-663b93f84b97
+[2019-06-11 18:13:19.828] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.michelemelluso.gitignore-1.0.1: michelemelluso.gitignore
+[2019-06-11 18:13:19.828] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/michelemelluso.gitignore-1.0.1
+[2019-06-11 18:13:19.831] [sharedprocess] [info] Installation completed. michelemelluso.gitignore
+[2019-06-11 18:13:19.893] [sharedprocess] [info] Downloaded extension: haaaad.ansible /tmp/8a54caf5-cc7d-4b07-b88f-df2e729bc5b6
+[2019-06-11 18:13:19.907] [sharedprocess] [info] Downloaded extension: timonwong.ansible-autocomplete /tmp/7d1605d3-e575-4b8b-a20a-f9f6444916e8
+[2019-06-11 18:13:19.921] [sharedprocess] [info] Extensions installed successfully: michelemelluso.gitignore
+[2019-06-11 18:13:19.971] [sharedprocess] [info] Downloaded extension: henriiik.docker-linter /tmp/d887ab3c-cc2a-4914-87a8-80d73c5b7e6c
+[2019-06-11 18:13:20.221] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.haaaad.ansible-0.2.8: haaaad.ansible
+[2019-06-11 18:13:20.224] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/haaaad.ansible-0.2.8
+[2019-06-11 18:13:20.242] [sharedprocess] [info] Installation completed. haaaad.ansible
+[2019-06-11 18:13:20.335] [sharedprocess] [info] Extensions installed successfully: haaaad.ansible
+[2019-06-11 18:13:20.671] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.ms-vscode.azure-account-0.8.4: ms-vscode.azure-account
+[2019-06-11 18:13:20.672] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/ms-vscode.azure-account-0.8.4
+[2019-06-11 18:13:20.677] [sharedprocess] [info] Installation completed. ms-vscode.azure-account
+[2019-06-11 18:13:20.729] [sharedprocess] [info] Extensions installed successfully: ms-vscode.azure-account
+[2019-06-11 18:13:20.730] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-azurefunctions
+[2019-06-11 18:13:20.835] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.timonwong.ansible-autocomplete-0.0.2: timonwong.ansible-autocomplete
+[2019-06-11 18:13:20.836] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/timonwong.ansible-autocomplete-0.0.2
+[2019-06-11 18:13:20.844] [sharedprocess] [info] Installation completed. timonwong.ansible-autocomplete
+[2019-06-11 18:13:20.872] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.mrmlnc.vscode-scss-0.6.2: mrmlnc.vscode-scss
+[2019-06-11 18:13:20.877] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/mrmlnc.vscode-scss-0.6.2
+[2019-06-11 18:13:20.886] [sharedprocess] [info] Installation completed. mrmlnc.vscode-scss
+[2019-06-11 18:13:20.900] [sharedprocess] [info] Extensions installed successfully: timonwong.ansible-autocomplete
+[2019-06-11 18:13:20.937] [sharedprocess] [info] Extensions installed successfully: mrmlnc.vscode-scss
+[2019-06-11 18:13:20.952] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.jakob101.relativepath-1.4.0: jakob101.relativepath
+[2019-06-11 18:13:20.952] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/jakob101.relativepath-1.4.0
+[2019-06-11 18:13:20.958] [sharedprocess] [info] Installation completed. jakob101.relativepath
+[2019-06-11 18:13:21.031] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.eg2.tslint-1.0.43: eg2.tslint
+[2019-06-11 18:13:21.031] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/eg2.tslint-1.0.43
+[2019-06-11 18:13:21.031] [sharedprocess] [info] Extensions installed successfully: jakob101.relativepath
+[2019-06-11 18:13:21.035] [sharedprocess] [info] Installation completed. eg2.tslint
+[2019-06-11 18:13:21.107] [sharedprocess] [info] Extensions installed successfully: eg2.tslint
+[2019-06-11 18:13:21.121] [sharedprocess] [info] Downloaded extension: chrmarti.regex /tmp/c6d78a2c-2597-4206-b9c7-47e5fb7ddd02
+[2019-06-11 18:13:21.960] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.henriiik.docker-linter-0.5.0: henriiik.docker-linter
+[2019-06-11 18:13:21.962] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/henriiik.docker-linter-0.5.0
+[2019-06-11 18:13:21.967] [sharedprocess] [info] Installation completed. henriiik.docker-linter
+[2019-06-11 18:13:22.074] [sharedprocess] [info] Extensions installed successfully: henriiik.docker-linter
+[2019-06-11 18:13:23.568] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.mrmlnc.vscode-less-0.6.3: mrmlnc.vscode-less
+[2019-06-11 18:13:23.569] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/mrmlnc.vscode-less-0.6.3
+[2019-06-11 18:13:23.570] [sharedprocess] [info] Installation completed. mrmlnc.vscode-less
+[2019-06-11 18:13:23.630] [sharedprocess] [info] Extensions installed successfully: mrmlnc.vscode-less
+[2019-06-11 18:13:26.183] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.glen-84.sass-lint-1.0.5: glen-84.sass-lint
+[2019-06-11 18:13:26.183] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/glen-84.sass-lint-1.0.5
+[2019-06-11 18:13:26.184] [sharedprocess] [info] Installation completed. glen-84.sass-lint
+[2019-06-11 18:13:26.259] [sharedprocess] [info] Extensions installed successfully: glen-84.sass-lint
+[2019-06-11 18:13:27.180] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.ms-vsliveshare.vsliveshare-audio-0.1.50: ms-vsliveshare.vsliveshare-audio
+[2019-06-11 18:13:27.181] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/ms-vsliveshare.vsliveshare-audio-0.1.50
+[2019-06-11 18:13:27.182] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare-audio
+[2019-06-11 18:13:27.347] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 18:13:27.395] [sharedprocess] [info] Scanned user extensions: 107
+[2019-06-11 18:13:27.395] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare-audio
+[2019-06-11 18:13:27.397] [sharedprocess] [info] Extensions installed successfully: nodesource.vscode-for-node-js-development-pack
+[2019-06-11 18:13:27.681] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.streetsidesoftware.code-spell-checker-1.7.16: streetsidesoftware.code-spell-checker
+[2019-06-11 18:13:27.681] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/streetsidesoftware.code-spell-checker-1.7.16
+[2019-06-11 18:13:27.684] [sharedprocess] [info] Installation completed. streetsidesoftware.code-spell-checker
+[2019-06-11 18:13:27.767] [sharedprocess] [info] Extensions installed successfully: streetsidesoftware.code-spell-checker
+[2019-06-11 18:13:28.345] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.chrmarti.regex-0.2.0: chrmarti.regex
+[2019-06-11 18:13:28.346] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/chrmarti.regex-0.2.0
+[2019-06-11 18:13:28.347] [sharedprocess] [info] Installation completed. chrmarti.regex
+[2019-06-11 18:13:28.414] [sharedprocess] [info] Extensions installed successfully: chrmarti.regex
+[2019-06-11 18:13:28.415] [sharedprocess] [info] Extensions installed successfully: cc-arekzc.cc-nodejs
+[2019-06-11 18:13:42.316] [sharedprocess] [info] Installing extension: ms-vscode.azure-account
+[2019-06-11 18:13:44.036] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-11 18:13:44.340] [sharedprocess] [info] Downloaded extension: ms-vscode.azure-account /tmp/d76efaeb-20b4-4ae9-923d-fc7a372bf8b8
+[2019-06-11 18:13:44.450] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.ms-vscode.azure-account-0.8.4: ms-vscode.azure-account
+[2019-06-11 18:13:44.455] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/ms-vscode.azure-account-0.8.4
+[2019-06-11 18:13:44.455] [sharedprocess] [info] Installation completed. ms-vscode.azure-account
+[2019-06-11 18:13:44.495] [sharedprocess] [info] Extensions installed successfully: ms-vscode.azure-account
+[2019-06-11 18:13:47.630] [sharedprocess] [info] Scanned user extensions: 109

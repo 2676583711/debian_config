@@ -1,0 +1,114 @@
+[2019-06-12 16:55:41.885] [sharedprocess] [info] main {"machineId":"d89494a614c74e15b7970e35dd1a7449f26eeb490da8a31d1299fa52a9fd8c60"}
+[2019-06-12 16:55:42.311] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:42.384] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:42.386] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:42.502] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:42.536] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:42.555] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:42.576] [sharedprocess] [info] ms-vsliveshare.vsliveshare 1.0.337 Running post uninstall script
+[2019-06-12 16:55:42.691] [sharedprocess] [info] Deleted from disk redhat.vscode-xml /home/zhou/.vscode/extensions/redhat.vscode-xml-0.6.0
+[2019-06-12 16:55:42.763] [sharedprocess] [error] ms-vsliveshare.vsliveshare 1.0.337 post-uninstall internal/modules/cjs/loader.js:604
+    throw err;
+    ^
+
+Error: Cannot find module '@abstractions/fileAccess'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:602:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:528:25)
+    at Module.require (internal/modules/cjs/loader.js:658:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/home/zhou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.337/out/prod/uninstall.js:4:22)
+    at Object.<anonymous> (/home/zhou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.337/out/prod/uninstall.js:107:3)
+    at Module._compile (internal/modules/cjs/loader.js:711:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:722:10)
+    at Module.load (internal/modules/cjs/loader.js:620:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:559:12)
+
+[2019-06-12 16:55:42.776] [sharedprocess] [error] ms-vsliveshare.vsliveshare 1.0.337 Failed to run post uninstall script: post-uninstall process exited with code 1
+[2019-06-12 16:55:43.423] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/zhou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.337
+[2019-06-12 16:55:43.481] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:43.483] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:43.485] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:43.531] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:43.542] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:43.632] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:43.646] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:43.666] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:43.685] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:43.753] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:43.803] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:44.342] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:44.475] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:44.493] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:44.630] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:44.658] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:55:44.713] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:55:46.715] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:56:04.314] [sharedprocess] [info] Installing extension: pivotal.vscode-spring-boot
+[2019-06-12 16:56:04.394] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 16:56:21.898] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-12 16:56:21.899] [sharedprocess] [info] Skipping directory 9be93140a707fd39d5a6177d688fd843.zh-cn. Language pack still in use.
+[2019-06-12 16:56:32.112] [sharedprocess] [info] Downloaded extension: pivotal.vscode-spring-boot /tmp/5242dca7-61b5-4b28-a166-a1ba83040751
+[2019-06-12 16:56:33.704] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.pivotal.vscode-spring-boot-1.7.0: pivotal.vscode-spring-boot
+[2019-06-12 16:56:33.705] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/pivotal.vscode-spring-boot-1.7.0
+[2019-06-12 16:56:33.706] [sharedprocess] [info] Installation completed. pivotal.vscode-spring-boot
+[2019-06-12 16:56:33.840] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:33.876] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:33.878] [sharedprocess] [info] Extensions installed successfully: pivotal.vscode-spring-boot
+[2019-06-12 16:56:42.969] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:42.971] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:42.973] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:42.975] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:43.108] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:43.121] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:43.134] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:43.149] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:43.169] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:43.689] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:43.764] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:43.820] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:43.885] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:44.004] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:44.078] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:44.100] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:56:44.136] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:56:46.117] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:57:04.490] [sharedprocess] [info] Installing extension: pivotal.vscode-boot-dev-pack
+[2019-06-12 16:57:04.547] [sharedprocess] [info] Scanned user extensions: 110
+[2019-06-12 16:57:05.010] [sharedprocess] [info] Downloaded extension: pivotal.vscode-boot-dev-pack /tmp/44fc09eb-0992-4265-aefc-dcd0f70a77ac
+[2019-06-12 16:57:05.077] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.pivotal.vscode-boot-dev-pack-0.0.8: pivotal.vscode-boot-dev-pack
+[2019-06-12 16:57:05.077] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/pivotal.vscode-boot-dev-pack-0.0.8
+[2019-06-12 16:57:05.077] [sharedprocess] [info] Installation completed. pivotal.vscode-boot-dev-pack
+[2019-06-12 16:57:05.204] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:57:05.226] [sharedprocess] [info] Scanned user extensions: 111
+[2019-06-12 16:57:05.678] [sharedprocess] [info] Installing extension: vscjava.vscode-spring-boot-dashboard
+[2019-06-12 16:57:05.679] [sharedprocess] [info] Installing extension: pivotal.vscode-manifest-yaml
+[2019-06-12 16:57:05.679] [sharedprocess] [info] Installing extension: pivotal.vscode-concourse
+[2019-06-12 16:57:05.867] [sharedprocess] [info] Scanned user extensions: 111
+[2019-06-12 16:57:05.872] [sharedprocess] [info] Scanned user extensions: 111
+[2019-06-12 16:57:05.875] [sharedprocess] [info] Scanned user extensions: 111
+[2019-06-12 16:57:10.408] [sharedprocess] [info] Installing extension: foxundermoon.shell-format
+[2019-06-12 16:57:10.475] [sharedprocess] [info] Scanned user extensions: 111
+[2019-06-12 16:57:12.561] [sharedprocess] [info] Downloaded extension: vscjava.vscode-spring-boot-dashboard /tmp/383bb2f8-abc1-448c-af71-3969e2761e58
+[2019-06-12 16:57:13.183] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.vscjava.vscode-spring-boot-dashboard-0.1.5: vscjava.vscode-spring-boot-dashboard
+[2019-06-12 16:57:13.183] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/vscjava.vscode-spring-boot-dashboard-0.1.5
+[2019-06-12 16:57:13.184] [sharedprocess] [info] Installation completed. vscjava.vscode-spring-boot-dashboard
+[2019-06-12 16:57:13.358] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 16:57:13.381] [sharedprocess] [info] Scanned user extensions: 112
+[2019-06-12 16:57:13.381] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-spring-boot-dashboard
+[2019-06-12 16:57:19.407] [sharedprocess] [info] Downloaded extension: pivotal.vscode-concourse /tmp/31fbaf2b-86e2-4f77-be24-5d8f54a9d244
+[2019-06-12 16:57:19.657] [sharedprocess] [info] Downloaded extension: foxundermoon.shell-format /tmp/55330598-e918-4400-8623-c0acfb8bfb12
+[2019-06-12 16:57:19.678] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.foxundermoon.shell-format-6.0.0: foxundermoon.shell-format
+[2019-06-12 16:57:19.681] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/foxundermoon.shell-format-6.0.0
+[2019-06-12 16:57:19.684] [sharedprocess] [info] Installation completed. foxundermoon.shell-format
+[2019-06-12 16:57:19.731] [sharedprocess] [info] Extensions installed successfully: foxundermoon.shell-format
+[2019-06-12 16:57:20.557] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.pivotal.vscode-concourse-1.7.0: pivotal.vscode-concourse
+[2019-06-12 16:57:20.557] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/pivotal.vscode-concourse-1.7.0
+[2019-06-12 16:57:20.558] [sharedprocess] [info] Installation completed. pivotal.vscode-concourse
+[2019-06-12 16:57:20.621] [sharedprocess] [info] Extensions installed successfully: pivotal.vscode-concourse
+[2019-06-12 16:57:34.243] [sharedprocess] [info] Downloaded extension: pivotal.vscode-manifest-yaml /tmp/14f7100a-4e46-418f-a2c7-88b6fe172478
+[2019-06-12 16:57:36.592] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.pivotal.vscode-manifest-yaml-1.7.0: pivotal.vscode-manifest-yaml
+[2019-06-12 16:57:36.592] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/pivotal.vscode-manifest-yaml-1.7.0
+[2019-06-12 16:57:36.593] [sharedprocess] [info] Installation completed. pivotal.vscode-manifest-yaml
+[2019-06-12 16:57:36.667] [sharedprocess] [info] Extensions installed successfully: pivotal.vscode-manifest-yaml
+[2019-06-12 16:57:36.668] [sharedprocess] [info] Extensions installed successfully: pivotal.vscode-boot-dev-pack
+[2019-06-12 17:01:46.260] [sharedprocess] [info] Scanned user extensions: 115

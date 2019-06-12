@@ -1,0 +1,49 @@
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.719 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.773 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.693 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.852 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.725 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.739 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+b.java:10: 错误: 类B是公共的, 应在名为 B.java 的文件中声明
+public class B {
+       ^
+1 个错误
+
+[Done] exited with code=1 in 0.621 seconds
+
+[Running] cd "/home/zhou/" && javac B.java && java B
+请输入操作指令:
+Exception in thread "main" java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Scanner.java:862)
+	at java.util.Scanner.next(Scanner.java:1485)
+	at java.util.Scanner.nextInt(Scanner.java:2117)
+	at java.util.Scanner.nextInt(Scanner.java:2076)
+	at B.main(B.java:18)
+
+[Done] exited with code=null in 122.051 seconds
+

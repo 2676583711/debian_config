@@ -1,0 +1,1 @@
+[2019-06-11 13:11:56:873] [/home/zhou] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.status=false status --porcelain=v2 -- b.java • Not a git repository (or any parent up to mount point /home) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 21 ms

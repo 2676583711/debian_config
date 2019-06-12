@@ -1,0 +1,20 @@
+[Running] cd "/home/zhou/" && javac b.java && java b
+
+
+[Done] exited with code=0 in 0.745 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.665 seconds
+
+[Running] cd "/home/zhou/" && javac b.java && java b
+thei is
+
+[Done] exited with code=0 in 0.719 seconds
+
+[Running] echo Hello
+Hello
+
+[Done] exited with code=0 in 0.017 seconds
+

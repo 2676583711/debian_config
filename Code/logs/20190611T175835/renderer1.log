@@ -1,0 +1,4 @@
+[2019-06-11 18:09:48.338] [renderer1] [error] cannot open extension:shengchen.vscode-leetcode. Detail: resource is not available: Error: cannot open extension:shengchen.vscode-leetcode. Detail: resource is not available
+    at n.then.e (file:///home/zhou/workspace/program/Editor/Vscode/install/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.main.js:4391:931)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-06-11 18:13:22.746] [renderer1] [error] 出现未知错误。有关详细信息，请参阅日志。

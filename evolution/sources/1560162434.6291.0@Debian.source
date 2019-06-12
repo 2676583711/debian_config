@@ -1,0 +1,24 @@
+[Data Source]
+DisplayName=liberalzhou@163.com
+Enabled=true
+Parent=1560162434.6291.2@Debian
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+
+[Mail Identity]
+Address=liberalzhou@163.com
+Name=zhou
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1560162434.6291.10@Debian
+RepliesToOriginFolder=false

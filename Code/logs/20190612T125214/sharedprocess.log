@@ -1,0 +1,51 @@
+[2019-06-12 12:52:19.818] [sharedprocess] [info] main {"machineId":"d89494a614c74e15b7970e35dd1a7449f26eeb490da8a31d1299fa52a9fd8c60"}
+[2019-06-12 12:52:25.523] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 12:52:26.221] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 12:52:26.291] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 12:52:26.639] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:26.691] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:26.719] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:26.960] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 12:52:27.040] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:27.110] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 12:52:27.155] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:27.166] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:31.165] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2019-06-12 12:52:31.167] [sharedprocess] [info] Installing extension: redhat.vscode-xml
+[2019-06-12 12:52:31.334] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:31.338] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 12:52:35.205] [sharedprocess] [info] Downloaded extension: redhat.vscode-xml /tmp/baf59854-b25e-4957-a40d-ec6a1cd47259
+[2019-06-12 12:52:36.319] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.redhat.vscode-xml-0.7.0: redhat.vscode-xml
+[2019-06-12 12:52:36.320] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/redhat.vscode-xml-0.7.0
+[2019-06-12 12:52:36.321] [sharedprocess] [info] Installation completed. redhat.vscode-xml
+[2019-06-12 12:52:36.855] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-xml
+[2019-06-12 12:52:40.734] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /tmp/0d6241c2-01c2-42ec-a931-affd5fe11073
+[2019-06-12 12:52:46.309] [sharedprocess] [info] Extracted extension to /home/zhou/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.379: ms-vsliveshare.vsliveshare
+[2019-06-12 12:52:46.309] [sharedprocess] [info] Renamed to /home/zhou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.379
+[2019-06-12 12:52:46.312] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2019-06-12 12:52:46.522] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2019-06-12 12:52:59.844] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-12 12:52:59.846] [sharedprocess] [info] Skipping directory 9be93140a707fd39d5a6177d688fd843.zh-cn. Language pack still in use.
+[2019-06-12 12:57:27.293] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:02:27.402] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:07:27.533] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:12:27.720] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:17:27.864] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:22:27.963] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:27:28.131] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:32:28.246] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:37:28.366] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:42:28.704] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:47:28.826] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:52:29.670] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 13:57:29.844] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:02:29.973] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:07:30.071] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:12:30.423] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:17:30.520] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:22:30.619] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:27:30.732] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:32:30.838] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:37:30.940] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:42:31.044] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 14:47:31.171] [sharedprocess] [info] Scanned user extensions: 109

@@ -1,0 +1,32 @@
+[2019-06-11 23:58:09.590] [sharedprocess] [info] main {"machineId":"d89494a614c74e15b7970e35dd1a7449f26eeb490da8a31d1299fa52a9fd8c60"}
+[2019-06-11 23:58:10.001] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 23:58:10.031] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 23:58:10.033] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 23:58:10.114] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-11 23:58:10.126] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-11 23:58:10.139] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-11 23:58:10.414] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 23:58:10.488] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-11 23:58:10.587] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-11 23:58:10.616] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-11 23:58:10.738] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-11 23:58:49.600] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-11 23:58:49.601] [sharedprocess] [info] Skipping directory 9be93140a707fd39d5a6177d688fd843.zh-cn. Language pack still in use.
+[2019-06-12 00:03:10.868] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:08:22.757] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:13:22.901] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:18:23.003] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:23:23.102] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:28:23.303] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:33:23.449] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:38:23.581] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:43:23.704] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:48:23.804] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:53:23.931] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 00:58:24.081] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 01:03:24.208] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 01:08:25.308] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 01:13:25.436] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 01:18:25.548] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 01:23:25.704] [sharedprocess] [info] Scanned user extensions: 109
+[2019-06-12 01:28:25.839] [sharedprocess] [info] Scanned user extensions: 109
